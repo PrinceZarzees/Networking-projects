@@ -1,0 +1,16 @@
+********UPLOAD request*********
+UPLOAD temp.txt
+********UPLOAD response*********
+UPLOAD successful
+********UPLOAD request*********
+UPLOAD waste-as-money.mp4
+********UPLOAD response*********
+UPLOAD successful
+********UPLOAD request*********
+UPLOAD OS_Dec10.mp4
+********UPLOAD response*********
+UPLOAD successful
+********UPLOAD request*********
+UPLOAD temp.txt
+********UPLOAD response*********
+UPLOAD successful
